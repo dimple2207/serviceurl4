@@ -1,5 +1,0 @@
-concourse_team_name=at-data-mgmt
-pipeline_name=master-data-management
-project_dir=/
-project_name=master-data-management
-project_type=app
