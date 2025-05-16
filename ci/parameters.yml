@@ -1,1 +1,3 @@
-
+pipeline-name: master-data-management
+pipeline-type: app
+project-dir: /
