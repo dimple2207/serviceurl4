@@ -4,8 +4,3 @@ jobs:
     steps:
     - run: echo "Hello, world!"
 name: Hello
-"on":
-- push
-pipeline-name: master-data-management
-pipeline-type: app
-project-dir: /
